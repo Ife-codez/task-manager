@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <!-- <div>
     <messageChanger />
   </div>
   <div>
@@ -15,7 +15,7 @@
   </div>
   <div>
     <ToggleClasses />
-  </div>
+  </div> -->
   <div>
     <TaskManager />
   </div>
