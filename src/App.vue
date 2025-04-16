@@ -16,7 +16,7 @@
   <div>
     <ToggleClasses />
   </div> -->
-  <div>
+  <div class="obody">
     <TaskManager />
   </div>
 </template>
@@ -31,12 +31,12 @@ import ToggleClasses from './components/ToggleClasses.vue'
 import TaskManager from './components/TaskManager.vue'
 export default {
   components: {
-    messageChanger,
-    UserCard,
-    UsersList,
-    Form,
-    CustomInput,
-    ToggleClasses,
+    // messageChanger,
+    // UserCard,
+    // UsersList,
+    // Form,
+    // CustomInput,
+    // ToggleClasses,
     TaskManager,
   },
   data() {
@@ -61,3 +61,6 @@ export default {
   }
 }
 </script>
+<style>
+  
+</style>
